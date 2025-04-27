@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './App.css'; // You can keep it for default styles or remove
+import './App.css';
 
 const ChessGame = () => {
   const initialBoard = Array(8)
